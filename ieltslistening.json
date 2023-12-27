@@ -1,0 +1,193 @@
+{
+  "status": true,
+  "freevideocount": "4",
+  "details": [
+    {
+      "id": "192",
+      "videoId": "624460704",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/IELTS+Listening+-+Overview.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/IELTS+Listening+-+Overview.jpg",
+      "title": "IELTS Listening - Overview",
+      "description": "Wondering how your IELTS listening test is? Check this video and know the different parts of IELTS listening, the duration of the test and many more details about it.",
+      "c_id": "3",
+      "sub_id": "65",
+      "type": "free"
+    },
+    {
+      "id": "3",
+      "videoId": "684090072",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/IELTS+Listening+-Myth+busted.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/IELTS+Listening+-Myth+busted.jpg",
+      "title": "IELTS Listening -Myth busted",
+      "description": "Here is an in-depth discussion of the IELTS listening test. Aspects like time-management, answer formats and much more to come. Watch on and find out!",
+      "c_id": "3",
+      "sub_id": "65",
+      "type": "free"
+    },
+    {
+      "id": "131",
+      "videoId": "684090129",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/IELTS+Listening-+Question+Types.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/IELTS+Listening-+Question+Types.jpg",
+      "title": "IELTS Listening- Question Types",
+      "description": "This video will bring you all the types of questions that a candidate will face in the IELTS listening test. Pay close attention to all the different types of questions and let the learning begin.",
+      "c_id": "3",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "132",
+      "videoId": "684090031",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/IELTS+Listening-+Common+errors.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/IELTS+Listening-+Common+errors.jpg",
+      "title": "IELTS Listening- Common errors",
+      "description": "Putting down a 'Distractor'; as an answer is a common mistake made by students in the IELTS Exam. This video will surely help you resolve a number of common mistakes. Let's take a look at them.",
+      "c_id": "3",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "4",
+      "videoId": "641868455",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/IELTS+Listening-+An+Analysis.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/IELTS+Listening-+An+Analysis.jpg",
+      "title": "IELTS Listening- An Analysis",
+      "description": "Here is an in-depth discussion of the IELTS listening test. Aspects like time-management, answer formats and much more to come. Watch on and find out!",
+      "c_id": "3",
+      "sub_id": "66",
+      "type": "paid"
+    },
+    {
+      "id": "5",
+      "videoId": "640604784",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Form_+Note+Completion+Question+type.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Form_+Note+Completion+Question+type.jpg",
+      "title": "Form/ Note Completion Question type",
+      "description": "Note completion questions appear frequently on the IELTS Listening exam, so there's a good possibility you'll get one.",
+      "c_id": "3",
+      "sub_id": "67",
+      "type": "paid"
+    },
+    {
+      "id": "6",
+      "videoId": "644707826",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Table+Completion+Question+type.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Table+Completion+Question+type.jpg",
+      "title": "Table Completion Question type",
+      "description": "Table completion is a prevalent type of question in IELTS listening. It could show up in any part of the listening exam. Spend time crafting the headings and predicting the table's lacking material. Take a look and know more about it!",
+      "c_id": "3",
+      "sub_id": "70",
+      "type": "paid"
+    },
+    {
+      "id": "7",
+      "videoId": "657301389",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Summary+Completion+Question+type.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Summary+Completion+Question+type.jpg",
+      "title": "Summary Completion Question type",
+      "description": "This video discusses the summary completion question of the IELTS listening test. You'll be given a summary of the recording to answer summary completion questions. A recorded monologue on an academic subject, such as a lecture about the Amazon jungle or the Pyramids of Giza, will usually be played. There will be words in the summary that need to be filled in.",
+      "c_id": "3",
+      "sub_id": "60",
+      "type": "paid"
+    },
+    {
+      "id": "8",
+      "videoId": "651923743",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Sentence+Completion+Question+type.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Sentence+Completion+Question+type.jpg",
+      "title": "Sentence Completion Question type",
+      "description": "Sentence Completion Questions will be dealt with in this video. Although sentence completion questions are one of the less prevalent types of IELTS Listening questions, you should be prepared to answer them if you are given one. They are a form of gap fill question in which you must listen to the tape and complete the phrases with the missing words.",
+      "c_id": "3",
+      "sub_id": "62",
+      "type": "paid"
+    },
+    {
+      "id": "124",
+      "videoId": "667212269",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Flow+chart+Completion+Question+type.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Flow+chart+Completion+Question+type.jpg",
+      "title": "Flow chart Completion Question type",
+      "description": "Sentence Completion Questions will be dealt with in this video. Although sentence completion questions are one of the less prevalent types of IELTS Listening questions, you should be prepared to answer them if you are given one. They are a form of gap fill question in which you must listen to the tape and complete the phrases with the missing words.",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "125",
+      "videoId": "657385425",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Short+answer+questions.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Short+answer+questions.jpg",
+      "title": "Short answer questions",
+      "description": "re. Learn how to tackle short-answer questions on the IELTS Listening test in this video. You will be given notes or sentences with blanks in them and your answers will usually be 2 to 3 words.\r\nA monologue is the typical type of question he",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "126",
+      "videoId": "640238366",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Labeling+Maps_Plan.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Labeling+Maps_Plan.jpg",
+      "title": "Labeling Maps/Plan",
+      "description": "Maps and plans test your ability to visualize a 3D space with the help of an audio. It is typically a monologue and tour guidance is the commonly chosen theme. Learn how to tackle the question of maps in this video.",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "127",
+      "videoId": "667253070",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Diagram+Labeling.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Diagram+Labeling.jpg",
+      "title": "Diagram Labeling",
+      "description": "You will be given a diagram of a process, an object, a structure, or a machine in flowchart completion questions, and you must either fill in the missing labels or complete notes inside the diagram. Almost any topic is available. A beehive, a Coke",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "128",
+      "videoId": "644748122",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Matching+Questions.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Matching+Questions.jpg",
+      "title": "Matching Questions",
+      "description": "Matching questions are particularly common in Section 1, where you must listen for detail in a two-person conversation.\r\nYou'll have to match objects from two different lists of alternatives. You must, for example, match the hotels (A–E) with the descriptions (1–4).",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "129",
+      "videoId": "667261250",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Multiple+Choice-questions.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Multiple+Choice-questions.jpg",
+      "title": "Multiple Choice-questions",
+      "description": "In multiple choice questions, you are required to choose the correct answer from a shortlist (usually 3 words or phrases). Often the answers will look similar in meaning so you will need to listen very carefully. Don’t just select the first answer you hear. For more details, have a look at our video.",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "130",
+      "videoId": "668564297",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Solved+Listening+Test+1.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Solved+Listening+Test+1.jpg",
+      "title": "Solved Listening Test 1",
+      "description": "this video, an entire listening test will be answered and the answers will also be discussed. This discussion will help you spot the answer and have a clear understanding of how to form the answers. Take a look!In",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "135",
+      "videoId": "668567226",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Video/Solved+Listening+Test+2.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Listening+Package/Image/Solved+Listening+Test+2.jpg",
+      "title": "Solved Listening Test 2",
+      "description": "In this video, an entire listening test will be answered and the answers will also be discussed. This discussion will help you spot the answer and have a clear understanding of how to form the answers. Take a look!",
+      "c_id": "3",
+      "sub_id": "10",
+      "type": "paid"
+    }
+  ]
+}
