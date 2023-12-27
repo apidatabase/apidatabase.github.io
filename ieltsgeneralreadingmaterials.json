@@ -1,0 +1,486 @@
+{
+  "status": true,
+  "freecount": 5,
+  "details": [
+    {
+      "id": "174",
+      "title": "General Reading 1",
+      "type": "free",
+      "status": "1",
+      "details": [
+        {
+          "id": "279",
+          "title": "SCHOOL ATTENDANCE\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+1+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "347",
+          "title": "SCHOOL ATTENDANCE",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+1+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "title": "General Reading 2",
+      "type": "free",
+      "status": "1",
+      "details": [
+        {
+          "id": "280",
+          "title": "SUSTAINABLE SCHOOL TRAVEL\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+2+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "300",
+          "title": "SUSTAINABLE SCHOOL TRAVEL\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+2+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "title": "General Reading 3",
+      "type": "free",
+      "status": "1",
+      "details": [
+        {
+          "id": "281",
+          "title": "SUMMER ACTIVITIES\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+3+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "301",
+          "title": "SUMMER ACTIVITIES\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+3+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "title": "General Reading 4",
+      "type": "free",
+      "status": "1",
+      "details": [
+        {
+          "id": "282",
+          "title": "VISITOR ATTRACTIONS\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+4+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "302",
+          "title": "VISITOR ATTRACTIONS\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+4+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "title": "General Reading 5",
+      "type": "free",
+      "status": "1",
+      "details": [
+        {
+          "id": "283",
+          "title": "BATH INTERNATIONAL MUSIC FESTIVAL\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+5+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "303",
+          "title": "BATH INTERNATIONAL MUSIC FESTIVAL\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+5+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "title": "General Reading 6",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "284",
+          "title": "LOST, DAMAGED\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+6+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "304",
+          "title": "LOST, DAMAGED\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "ghttps://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+6+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "title": "General Reading 7",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "285",
+          "title": "EVENING COURSES\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+7+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "305",
+          "title": "EVENING COURSES\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+7+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "title": "General Reading 8",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "286",
+          "title": "MUSIC CLUBS\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+8+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "306",
+          "title": "MUSIC CLUBS\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+8+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "title": "General Reading 9",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "287",
+          "title": "THE BEST SUITCASES\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+9+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "307",
+          "title": "THE BEST SUITCASES\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+9+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "title": "General Reading 10",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "288",
+          "title": "ONLINE ROOMMATE FINDER TORONTO\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+10+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "308",
+          "title": "ONLINE ROOMMATE FINDER TORONTO\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+10+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "title": "General Reading 11",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "289",
+          "title": "NEW YORK LATE- STARTERS STRING CRCHESTRA\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+11+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "309",
+          "title": "NEW YORK LATE- STARTERS STRING CRCHESTRA\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+11+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "title": "General Reading 12",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "290",
+          "title": "THE GUARDIAN NEWPAPER'S TRAVEL\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+12+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "310",
+          "title": "THE GUARDIAN NEWPAPER'S TRAVEL\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+12+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "title": "General Reading 13",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "291",
+          "title": "TRANSITION CARE FOR THE ELDERLY\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+13+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "311",
+          "title": "TRANSITION CARE FOR THE ELDERLY\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+13+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "title": "General Reading 14",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "292",
+          "title": "FIVE REVIEWS OF THE WELLINGTON HOTEL\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+14+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "312",
+          "title": "FIVE REVIEWS OF THE WELLINGTON HOTEL\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+14+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "title": "General Reading 15",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "293",
+          "title": "YOUR GUIDE TO ENTERTAINMENT IN WESRHAVEN\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+15+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "313",
+          "title": "YOUR GUIDE TO ENTERTAINMENT IN WESRHAVEN\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+15+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "title": "General Reading 16",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "294",
+          "title": "THE BEST TRAVEL WALLETS\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+16+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "314",
+          "title": "THE BEST TRAVEL WALLETS\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+16+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "title": "General Reading 17",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "295",
+          "title": "CONSUMER ADVICE\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+17+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "315",
+          "title": "CONSUMER ADVICE\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+17+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "title": "General Reading 18",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "296",
+          "title": "HARVEY'S STORAGE\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+18+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "316",
+          "title": "HARVEY'S STORAGE\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+18+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "title": "General Reading 19",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "297",
+          "title": "YOUNG FASHION DESIGNER UK\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+19+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "317",
+          "title": "YOUNG FASHION DESIGNER UK\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+19+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "title": "General Reading 20",
+      "type": "paid",
+      "status": "1",
+      "details": [
+        {
+          "id": "298",
+          "title": "NEW CYCLE PATH\r\n",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+20+Question.pdf",
+          "status": "1"
+        },
+        {
+          "id": "318",
+          "title": "NEW CYCLE PATH\r\n",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/General+Reading+Materials/General+Reading+20+Answer.pdf",
+          "status": "1"
+        }
+      ]
+    }
+  ]
+}
