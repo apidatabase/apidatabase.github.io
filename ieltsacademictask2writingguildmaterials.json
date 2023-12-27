@@ -1,0 +1,21 @@
+{
+  "status": true,
+  "freecount": 5,
+  "details": [
+    {
+      "id": "205",
+      "title": "Task 2 Writing guide",
+      "type": "free",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Task 2 Writing guide",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/IELTS+Task+2+Writing+guide/Task+2+Writing+Guide.pdf",
+          "status": "1"
+        }
+      ]
+    }
+  ]
+}
