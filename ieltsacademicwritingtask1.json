@@ -1,0 +1,193 @@
+{
+  "status": true,
+  "freevideocount": "3",
+  "details": [
+    {
+      "id": "201",
+      "videoId": "684091396",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/What+is+Academic+Task+1.jpg",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/What+is+Academic+Task+1.mp4",
+      "title": "What is Academic Task 1",
+      "description": "In task 1 of the academic writing test you need to write a report based on the data given in a graph, table, chart or process diagram. You must write at least 150 words in less than 20 minutes by choosing the key features of the data. This video will discuss more about Academic Writing Task 1.",
+      "c_id": "5",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "202",
+      "videoId": "684091437",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Who+should+write+Academic+task+1.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Who+should+write+Academic+task+1.jpg",
+      "title": "Who should write Academic task 1",
+      "description": "If you want to study in an English-speaking environment or university (higher education) and also for professional registration purpose, you can  write Academic Task 1.",
+      "c_id": "5",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "203",
+      "videoId": "684091356",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Common+mistakes+in+report+writing+Academic+Task+1.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Common+mistakes+in+report+writing+Academic+Task+1.jpg",
+      "title": "Common mistakes in report writing Academic Task 1",
+      "description": "Misinterpreting the given data,writing every information given in the picture are common errors that can be seen in a report.How to avoid such mistakes will be discussed in this video.",
+      "c_id": "5",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "20",
+      "videoId": "651993496",
+      "videourl": "                            \nhttps://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/What+is+the+Task+1+Academic+format%3F.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/What+is+the+Task+1+Academic+format%3F.jpg",
+      "title": "What is the Task 1 Academic format?",
+      "description": "This video will discuss how to structure your writing task 1. Task 1 of the IELTS Writing Exam You must write at least 150 words in response to a graph, table, chart, or process in academic. In less than 20 minutes, you will be given real data and asked to choose and report the data's primary aspects.",
+      "c_id": "5",
+      "sub_id": "81",
+      "type": "paid"
+    },
+    {
+      "id": "21",
+      "videoId": "627313623",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Types+of+Report+Writing.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Types+of+Report+Writing.jpg",
+      "title": "Types of Report Writing",
+      "description": "Here you will be able to examine the language and structure of OET listening as you are guided \r\nthrough the OET criteria. you will learn ways for distinguishing between medical and colloquial \r\nThe different types of questions that show up on the IELTS writing task 1 question papers are the point of discussion in this video.",
+      "c_id": "5",
+      "sub_id": "82",
+      "type": "paid"
+    },
+    {
+      "id": "22",
+      "videoId": "651430994",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Line+Graph.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Line+Graph.jpg",
+      "title": "Line Graph",
+      "description": "The topic of linear charts will be discussed in this video. You will be given one or more graphs in this sort of inquiry. Objects are represented graphically in a line graph.",
+      "c_id": "5",
+      "sub_id": "83",
+      "type": "paid"
+    },
+    {
+      "id": "23",
+      "videoId": "651430524",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Bar+Graph.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Bar+Graph.jpg",
+      "title": "Bar Graph",
+      "description": "The topic of bar graphs will be discussed in this video. The question of a bar chart is whether there will be one or more charts with data displayed in vertical or horizontal bars.",
+      "c_id": "5",
+      "sub_id": "84",
+      "type": "paid"
+    },
+    {
+      "id": "24",
+      "videoId": "651430783",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Table.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Table.jpg",
+      "title": "Table",
+      "description": "In this video, we'll talk about tables. There will be one or more tables giving data on a certain topic. Your task is to produce a paragraph of at least 150 words that analyses and compares the statistics in the tables.",
+      "c_id": "5",
+      "sub_id": "85",
+      "type": "paid"
+    },
+    {
+      "id": "25",
+      "videoId": "651430661",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Pie-chart.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Pie-chart.jpg",
+      "title": "Pie-chart",
+      "description": "The topic of pie charts will be discussed in this video. The pie chart is frequently divided into several portions, each of which reflects a factor's statistic (in percentage).",
+      "c_id": "5",
+      "sub_id": "86",
+      "type": "paid"
+    },
+    {
+      "id": "26",
+      "videoId": "624461220",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Process+Diagram-+Mechanical.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Process+Diagram-+Mechanical.jpg",
+      "title": "Process Diagram- Mechanical",
+      "description": "The processes that require a human intervention to function is known as a mechanical process. Easy enough? However, there are a few things you should keep in mind when answering this sort. This video is all about Mechanical process diagrams.",
+      "c_id": "5",
+      "sub_id": "87",
+      "type": "paid"
+    },
+    {
+      "id": "27",
+      "videoId": "651430916",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Process+Diagram-+Life+Cycle.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Process+Diagram-+Life+Cycle.jpg",
+      "title": "Process Diagram- Life Cycle",
+      "description": "Have you been given the life cycle of a honey bee to describe? Do you know what to write in and what things to take care of? We have a video just for that. Watch on and find out.",
+      "c_id": "5",
+      "sub_id": "88",
+      "type": "paid"
+    },
+    {
+      "id": "28",
+      "videoId": "651430616",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Process+Diagram-+Natural+Cycle.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Process+Diagram-+Natural+Cycle.jpg",
+      "title": "Process Diagram- Natural Cycle",
+      "description": "Is there no human factor in the process diagram that you have been given nor does it show the life process of a living being? Then you have been given a Natural cycle to describe. Watch this video and know all about describing natural cycles.",
+      "c_id": "5",
+      "sub_id": "88",
+      "type": "paid"
+    },
+    {
+      "id": "29",
+      "videoId": "625173466",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Maps.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Maps.jpg",
+      "title": "Maps",
+      "description": "In this video, we will talk about solving maps. You'll be given two maps of the same location, but they'll be in two distinct timelines or projects.",
+      "c_id": "5",
+      "sub_id": "89",
+      "type": "paid"
+    },
+    {
+      "id": "30",
+      "videoId": "651430736",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Plans.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Plans.jpg",
+      "title": "Plans",
+      "description": "In this video, we will talk about solving Plans. You'll be given two plans of the same location, but they'll be after some sort of change has happened to them",
+      "c_id": "5",
+      "sub_id": "90",
+      "type": "paid"
+    },
+    {
+      "id": "31",
+      "videoId": "641039797",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Writing+Task+1+Assessment+Criteria.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Writing+Task+1+Assessment+Criteria.jpg",
+      "title": "Writing Task 1 Assessment Criteria",
+      "description": "This video will discuss how the answers are graded and what are the differences between each band scores.",
+      "c_id": "5",
+      "sub_id": "91",
+      "type": "paid"
+    },
+    {
+      "id": "32",
+      "videoId": "651431059",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Report+Writing+Solved+with+sample+answer+1.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Report+Writing+Solved+with+sample+answer+1.jpg",
+      "title": "Report Writing Solved with sample answer 1",
+      "description": "Here is the first report that has been answered with utmost care. The explanation to each of the answers are also provided.",
+      "c_id": "5",
+      "sub_id": "92",
+      "type": "paid"
+    },
+    {
+      "id": "75",
+      "videoId": "652340129",
+      "videourl": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Video/Report+Writing+Solved+with+sample+answer+2.mp4",
+      "thumbnail": "https://database-mail.s3.us-east-005.backblazeb2.com/IELTS+Academic+Writing+Task+1/Image/Report+Writing+Solved+with+sample+answer+2.jpg",
+      "title": "Report Writing Solved with sample answer 2",
+      "description": "Here is the second report that has been answered in the",
+      "c_id": "5",
+      "sub_id": "135",
+      "type": "paid"
+    }
+  ]
+}
