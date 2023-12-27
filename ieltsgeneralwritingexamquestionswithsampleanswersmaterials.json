@@ -1,0 +1,48 @@
+{
+  "status": true,
+  "freecount": 5,
+  "details": [
+    {
+      "id": 17,
+      "title": "Writing exam questions with sample answers",
+      "c_id": "5",
+      "free": "yes",
+      "freecount": 0,
+      "lock": "Lock",
+      "sub": [
+        {
+          "id": "291",
+          "title": "Medcity's ielts writing exam April to May 2023",
+          "type": "free",
+          "status": "1",
+          "details": [
+            {
+              "id": "524",
+              "title": "Medcity's ielts writing exam April to May 2023",
+              "type": "pdf",
+              "viewtype": "question",
+              "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/Writing+exam+questions+with+sample+answers/Medcity's+ielts+writing+exam+April+to+May+2023question.pdf",
+              "status": "1"
+            }
+          ]
+        },
+        {
+          "id": "293",
+          "title": "IELTS WRITING 11th, 20th, 27th May 2023",
+          "type": "paid",
+          "status": "1",
+          "details": [
+            {
+              "id": "526",
+              "title": "IELTS WRITING 11th, 20th, 27th May 2023",
+              "type": "pdf",
+              "viewtype": "question",
+              "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+General+Material/Writing+exam+questions+with+sample+answers/IELTS+WRITING+11th%2C+20th%2C+27th+May+2023question.pdf",
+              "status": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
