@@ -1,0 +1,226 @@
+{
+  "status": true,
+  "freevideocount": "4",
+  "details": [
+    {
+      "id": "191",
+      "videoId": "638523874",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/IELTS+General+Reading-+Overview.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/IELTS+General+Reading-+Overview.jpeg",
+      "title": "IELTS General Reading- Overview",
+      "description": "The different types of questions, the strategies that you can use to get to the answers, the scoring system and other details about the General Reading test will be shown in this video.",
+      "c_id": "4",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "198",
+      "videoId": "684090736",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/IELTS+Reading-+Major+Myths.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/IELTS+Reading-+Major+Myths.jpeg",
+      "title": "IELTS Reading- Major Myths",
+      "description": "While reading, it is best advised to underline the words that stand out or feel important. It's tips like these that help boost your scores. This video will discuss more of such tips and tricks to enhance your performance on the IELTS reading test.",
+      "c_id": "4",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "199",
+      "videoId": "684090645",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Most+Common+Question+types+in+Reading.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Most+Common+Question+types+in+Reading.jpeg",
+      "title": "Most Common Question types in Reading",
+      "description": "This video will provide an in-depth analysis of the reading test. Various aspects like the question pattern and time management will help you plan better for your test.",
+      "c_id": "4",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "200",
+      "videoId": "684090778",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/IELTS+Reading-+Scoring+Pattern.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/IELTS+Reading-+Scoring+Pattern.jpeg",
+      "title": "IELTS Reading- Scoring Pattern",
+      "description": "The scores are given based on certain criteria and this video will discuss how you can understand and take advantage of the scoring pattern.",
+      "c_id": "4",
+      "sub_id": "0",
+      "type": "free"
+    },
+    {
+      "id": "108",
+      "videoId": "123456",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/IELTS+General+Training+Reading-+An+Analysis.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/IELTS+General+Training+Reading-+An+Analysis.jpeg",
+      "title": "IELTS General Training Reading- An Analysis",
+      "description": "This video will provide an in-depth analysis of the general reading test. Various aspects like the question pattern and time management will help you plan better for your test.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "109",
+      "videoId": "667722471",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Form_Note+Completion+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Form_Note+Completion+Question+Type.jpeg",
+      "title": "Form/Note Completion Question Type",
+      "description": "In this type of question, you will be asked to read the text and complete factual information in the form of notes or forms. Find out more on this sort of questions through this video",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "110",
+      "videoId": "667093407",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Table+Completion+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Table+Completion+Question+Type.jpeg",
+      "title": "Table Completion Question Type",
+      "description": "Table completion is a prevalent type of question in IELTS Reading. It could show up in any part of the Reading exam. Spend time crafting the headings and predicting the table's lacking material. Take a look and know more about it!",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "111",
+      "videoId": "667093072",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Summary+Completion+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Summary+Completion+Question+Type.jpeg",
+      "title": "Summary Completion Question Type",
+      "description": "This video will tell you how to tackle summary completions. You'll be given a summary of a segment of the text and asked to fill in the blanks with information from the text in this sort of summary completion question.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "112",
+      "videoId": "667724760",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Sentence+Completion+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Sentence+Completion+Question+Type.jpeg",
+      "title": "Sentence Completion Question Type",
+      "description": "You will complete sentences from the reading material in this type of sentence completion question and this video will give you a better understanding of how to approach this question type.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "113",
+      "videoId": "667602551",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Flow-chart+Completion+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Flow-chart+Completion+Question+Type.jpeg",
+      "title": "Flow-chart Completion Question Type",
+      "description": "Flowcharts are the point of interest in this video. You will be provided a chart with arrows highlighting a sequence of events. Your task is to fill in the blanks or notes that describe the events. Watch on find out all about flowcharts.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "114",
+      "videoId": "667092340",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Diagram+Labeling.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Diagram+Labeling.jpeg",
+      "title": "Diagram Labeling",
+      "description": "This video will discuss diagram labelling questions which requires you to complete labels on a diagram that corresponds to a description in the text.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "115",
+      "videoId": "667093205",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Yes%2C+No%2C+Not+Given+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Yes%2C+No%2C+Not+Given+Question+Type.jpeg",
+      "title": "Yes, No, Not Given Question Type",
+      "description": "Identifying the writer’s claims is the topic of this video. You will be given a number of statements and asked, 'Do the following statements agree with the writer's views/claims?' In this question type, you will be given a number of statements and asked, 'Do the following statements agree with the writer's views/claims?' Then you'll choose between 'Yes,' 'No,' and 'Not given.'",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "116",
+      "videoId": "668086346",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/True%2C+False%2C+Not+Given+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/True%2C+False%2C+Not+Given+Question+Type.jpeg",
+      "title": "True, False, Not Given Question Type",
+      "description": "Information identification will be the point of interest in this video. When identifying information, you'll be given a list of statements and asked, \"Do the following statements correspond with the information in the text?\" In the answer fields, Write \"True,\" \"False,\" or \"Not given\" while responding to the questions.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "117",
+      "videoId": "667092791",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Multiple+Choice+Questions.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Multiple+Choice+Questions.jpeg",
+      "title": "Multiple Choice Questions",
+      "description": "Multiple choice questions are divided into three categories: Choose the most appropriate response from four options (A, B, C or D); Choose the two best answers from a list of five options (A, B, C, D or E); Choose the top three responses from a list of seven options (A, B, C, D, E, F or G). This video will tackle this very kind of questions.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "184",
+      "videoId": "123456",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Short+Answer+Questions.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Short+Answer+Questions.jpeg",
+      "title": "Short Answer Questions",
+      "description": "This video will discuss how to get started on Short answer questions. This question type requires you to respond to a question with a brief response. You'll be asked questions that mainly revolve around factual information regarding the text's details.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "185",
+      "videoId": "668096089",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Matching+Headings.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Matching+Headings.jpeg",
+      "title": "Matching Headings",
+      "description": "Matching the headings is the point of discussion in this video. The primary idea of a paragraph or section of text is referred to as a header. You are given a list of headers and asked to match the headings to the appropriate paragraphs or sections in the matching headings question type.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "186",
+      "videoId": "667092655",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Matching+Features%2C+Names%2C+Titles%2C+Lists.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Matching+Features%2C+Names%2C+Titles%2C+Lists.jpeg",
+      "title": "Matching Features, Names, Titles, Lists",
+      "description": "In this video, matching features is the topic of discussion. A set of statements or bits of information must be matched to a list of options. The options are provided as a collection of textual attributes, each of which is denoted by a letter.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "187",
+      "videoId": "667092276",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Classification+Question+Type.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Classification+Question+Type.jpeg",
+      "title": "Classification Question Type",
+      "description": "This video tackles classification questions. As you may expect, classification questions require you to sort material from the reading text into categories. You have a list of alternatives and some statements from your text (listed as A, B, C etc.). It's your job to match each statement to the appropriate option.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "188",
+      "videoId": "667648544",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Solved+Reading+Test+1.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Solved+Reading+Test+1.jpeg",
+      "title": "Solved Reading Test 1",
+      "description": "An entire reading test will be solved in this video with the explanation of each answer.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    },
+    {
+      "id": "189",
+      "videoId": "667652268",
+      "videourl": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Video/Solved+Reading+Test+2.mp4",
+      "thumbnail": "https://database-maill.s3.us-east-005.backblazeb2.com/IELTS+General+Reading+Package/Image/Solved+Reading+Test+2.jpeg",
+      "title": "Solved Reading Test 2",
+      "description": "A second reading test will be solved in this video with the explanation of each answer.",
+      "c_id": "4",
+      "sub_id": "10",
+      "type": "paid"
+    }
+  ]
+}
