@@ -1,0 +1,677 @@
+{
+  "status": true,
+  "freecount": 5,
+  "details": [
+    {
+      "id": "1",
+      "title": "Listening part1",
+      "type": "free",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part1",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+1+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part1",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+1+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part1",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+1+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part1",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+1+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Listening part2",
+      "type": "free",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part2",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+2+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part2",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+2+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part2",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+2+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Listening part3",
+      "type": "free",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part3",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+3+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part3",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+3+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part3",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+3+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part3",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+3+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Listening part4",
+      "type": "free",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part4",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+4+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part4",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+4+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part4",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+4+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Listening part5",
+      "type": "free",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part5",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+5+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part5",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+5+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part5",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+5+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Listening part6",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part6",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+6+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part6",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+6+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part6",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+6+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part6",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://f005.backblazeb2.com/file/database-mailll/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+6+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Listening part7",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part7",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+7+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part7",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+7+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part7",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+7+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part7",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+7+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Listening part8",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part8",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+8+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part8",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+8+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part8",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+8+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part8",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+8+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Listening part9",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part9",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+9+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part9",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+9+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part9",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+9+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part9",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+9+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Listening part10",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part10",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+10+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part10",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+10+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part10",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+11+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part10",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+10+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Listening part11",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part11",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+11+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part11",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+11+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part11",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+11+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Listening part12",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part12",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+12+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part12",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+12+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part12",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+12+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part12",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+12+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Listening part13",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part13",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+13+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part13",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+13+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part13",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+13+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Listening part14",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part14",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+14+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part14",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+14+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part14",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+14+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Listening part15",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part15",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+15+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part15",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+15+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part15",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+15+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Listening part16",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part16",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+16+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part16",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+16+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part16",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+16+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part16",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+16+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Listening part17",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part17",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+17+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part17",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+17+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part17",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+17+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part17",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+17+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Listening part18",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part18",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+18+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part18",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+18+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part18",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+18+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part18",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+18+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Listening part19",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part19",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+19+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part19",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+19+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part19",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+19+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part19",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+19+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Listening part20",
+      "type": "paid",
+      "status": "1",
+      "sub_details": [
+        {
+          "title": "Listening part20",
+          "type": "video",
+          "viewtype": "video",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+20+Video.mp4",
+          "status": "1"
+        },
+        {
+          "title": "Listening part20",
+          "type": "pdf",
+          "viewtype": "question",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+20+Question.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part20",
+          "type": "pdf",
+          "viewtype": "answer",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+20+Answer.pdf",
+          "status": "1"
+        },
+        {
+          "title": "Listening part20",
+          "type": "audio",
+          "viewtype": "audio",
+          "link": "https://database-mailll.s3.us-east-005.backblazeb2.com/IELTS+Academic+Material/Listening+Practice+Materials/Listening+Part+20+Audio.mp3",
+          "status": "1"
+        }
+      ]
+    }
+  ]
+}
